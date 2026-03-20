@@ -1,0 +1,3 @@
+minimind代码详细解读注释
+对minimind设计到的工程技术详细解读
+pre-train、sft
